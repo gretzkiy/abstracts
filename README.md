@@ -4,4 +4,4 @@
 
 [Чистый код. Роберт Мартин](./clean-code/README.md)
 
-[Чистая архитектура. Роберт Мартин](./clean-architecture/README.md)
+[[WIP] Чистая архитектура. Роберт Мартин](./clean-architecture/README.md)
