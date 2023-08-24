@@ -4,4 +4,6 @@
 
 [Чистый код. Роберт Мартин](./clean-code/README.md)
 
-[[WIP] Чистая архитектура. Роберт Мартин](./clean-architecture/README.md)
+[Чистая архитектура. Роберт Мартин](./clean-architecture/README.md)
+
+[Git](./git/README.md)
